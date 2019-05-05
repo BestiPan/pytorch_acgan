@@ -1,1 +1,1 @@
-# pytorch_acgan
+# ACGAN的Pytorch实现
